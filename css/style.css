@@ -1,0 +1,450 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.header {
+    background-color: #F6F7FB;
+    min-height: 30px;
+    overflow: hidden;
+}
+
+.container {
+    margin: 0px auto;
+    width: 75%;
+}
+
+.social_icon {
+
+}
+
+.social_style {
+    margin: 4px;
+    padding: 0px;
+}
+
+.fa.fa-facebook {
+    margin-right: 6px;
+}
+
+.fa.fa-twitter {
+    margin-right: 6px;
+}
+
+.fa.fa-github {
+    margin-right: 6px;
+}
+
+.fa.fa-pinterest {
+    margin-right: 6px;
+}
+
+.fa.fa-google-plus {
+    margin-right: 6px;
+}
+
+.fa.fa-linkedin {
+    margin-right: 6px;
+}
+
+.wrapper_mailphn {
+}
+
+.header_left {
+    margin:5px auto;
+    padding-left: 10px;
+}
+
+.mail {
+}
+
+.mail_icon {
+}
+
+.fa.fa-envelope-o {
+     margin-right: 10px;
+}
+
+.mail_name {
+    margin-right: 10px;
+    margin-top: -4px;
+}
+
+.phn_details {
+    margin: 0px 5px;
+}
+
+.phn_icon {
+}
+
+.fa.fa-mobile {  
+}
+
+.phn_number {
+   
+}
+
+.navigation {
+    min-height: 40px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.site_name {
+    font-size: 20px;
+}
+
+.navbar {
+    float: left;
+    margin-left: 40px;
+}
+
+.navbar ul {
+    list-style: none;
+}
+.navbar ul li {
+    float: left;
+}
+.navbar ul li a {
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 8px 18px;
+}
+.navbar ul li a:hover {
+    background-color: #038387;
+    border-radius: 6px;
+    color: white;
+}
+
+.search_btn {
+    margin-left: -10px;
+    margin-top: 10px;
+}
+
+.fa.fa-search {
+}
+
+.top {
+    height: 500px;
+    width: 100%;
+    background: url(../images/back2.jpg);
+    overflow: hidden;
+}
+
+.slide {
+    text-align: center;
+    min-height: 150px;
+    width: 60%;
+    margin: 134px auto;
+}
+top_title{
+    width: 45%;
+   
+}
+.slide h1{
+    color: white;
+    margin: 10px auto;
+    font-size: 45px;
+}
+.slide p{
+    color: black;
+    margin: 8px auto;
+    width: 85%;
+}
+
+.started_btn {
+    background-color: #04B89D;
+    height:37px;
+    padding: 1px;
+    width: 28%;
+    margin-top: 15px;
+    color: white;
+}
+
+.services {
+    margin: 30px auto;
+    min-height: 110px;
+    overflow: hidden;
+}
+
+.main_service {
+    text-align: center;
+    color: #038387;
+    height: 95px;
+}
+
+.main_service h1{
+    margin-top: 20px;
+}
+.main_service p{
+    margin: 6px auto;
+}
+
+.main_item {
+    min-height: 160px;
+    width: 90%;
+    overflow: hidden;
+    margin: 10px auto;
+}
+
+.item {
+    width: 33.3%;
+    min-height: 150px;
+    color: #038387;
+}
+
+.item logo{
+     width: 15%;
+    min-height: 40px;
+}
+
+
+.hp {
+    width: 85%;
+}
+
+.hp p{
+   margin-top: 10px;
+}
+
+.features {
+    overflow: hidden;
+    background-color: #F3F4F8;
+    min-height: 650px;
+}
+
+.features_main{
+    margin: 25px auto;
+    height: 550px;
+    color: #038387;
+}
+
+.features_header {
+    text-align: center;
+}
+
+.features_header h1{
+    margin: 5px auto;
+}
+
+.features_header p{
+    margin-bottom: 10px;
+}
+
+.features_top_wrapper {
+}
+
+.features_top_content{
+    width: 90%;
+    margin: 20px auto;;
+    height: 305px;
+    text-align: center;
+}
+.features_top_left {
+    width: 45%;
+    background-color: white;
+    height: 302px; 
+}
+
+.features_top_left img{
+    width: 100%;
+    height: 250px;
+    margin: 0px auto;
+}
+
+.features_top_right {
+    width: 45%;
+    background-color: white;
+    height: 302px; 
+}
+
+.features_top_right img{
+    width: 100%;
+    height: 250px;
+    margin: 0px auto;
+}
+.features_top_left h4{
+    margin: 4px auto;
+}
+.features_top_right h4{
+    margin: 4px auto;
+}
+.feature_bottom_wrapper {
+    width: 90%;
+    min-height: 160px;
+    margin: 10px auto;
+}
+
+.bottom_features {
+    width: 23%;
+    height: 130px;
+    margin: 10px 1%;
+}
+.bottom_features img{
+    height: 120px;
+    width: 100%;
+}
+
+.bullet{
+    width: 10%;
+    min-height: 30px;
+    margin: 0px auto;
+}
+
+.fa.fa-circle{
+    margin: 0px 5px;
+}
+#bull{
+    color: #04B89D;
+}
+
+.work {
+    width: 50%;
+    height: 188px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+.text{
+    text-align: center;
+    width: 100%;
+    margin: 35px auto;
+    color: #038387;
+}
+.text h2{
+    margin: 5px auto;
+}
+.text p{
+    margin: 5px auto;
+}
+.touch_btn {
+    background-color: #04B89D;
+    height:37px;
+    padding: 0px;
+    width: 28%;
+    margin-top: 15px;
+    color: white;
+}
+
+.footer {
+}
+
+.footr_top {
+    width: 100%;
+    height: 250px;
+    background-color: #038387;
+    margin: 0px auto;
+    overflow: hidden;
+    color: white;
+}
+
+
+.footer_content_1{
+    margin-top: 10px; 
+    width: 24%;
+    height: 240px;
+    margin-right: 1%;
+}
+.footer_content_1 h1, h3, p{
+    margin: 5px auto;
+}
+.footer_content_2{
+    margin-top: 10px; 
+    width: 24%;
+    height: 240px;
+    margin-right: 1%;
+}
+.footer_content_2 img{
+    height: 80px;
+    width: 80px;
+    margin: 2px 2px;
+}
+
+.footer_content_3{
+    margin-top: 10px; 
+    width: 24%;
+    height: 240px;
+    margin-right: 1%;
+}
+.footer_content_4{
+    margin-top: 10px; 
+    width: 24%;
+    height: 240px;
+    margin-right: 1%;
+}
+.more_btn {
+    background-color: #038387;
+    padding: 0px;
+    color: white;
+    height: 20px;
+    margin-top: 10px;
+    border: 1px solid #00B4CC;
+}
+
+.subscribe_box {
+    width: 90%;
+    margin: 0px auto;
+}
+
+.search {
+    width: 70%;
+    position: relative;
+    margin-top: 12px;
+    margin-left: -5%;
+}
+
+.search_term {
+    float: left;
+    width: 100%;
+    border: 1px solid #00B4CC;
+    padding: 3px;
+    height: 20px;
+    border-radius: 0px;
+    outline: none;
+    color: #038387;
+    background-color: #4F5D6E;
+}
+
+.search_bt {
+    position: absolute;
+    right: -50px;
+    width: 75px;
+    height: 28px;
+    border: 1px solid #00B4CC;
+    background: #28B199;
+    text-align: ;
+    color: #fff;
+    border-radius: 0px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.footr_bottom {
+    width: 100%;
+    height: 50px;
+    background-color: #2F4054;
+    margin: 0px auto;
+    overflow: hidden;
+    color: white;
+}
+
+.copyright {
+    margin-top: 5px;
+    margin-right: 121px;
+}
+
+.navbar {
+}
